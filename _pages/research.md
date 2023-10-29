@@ -4,8 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<font size="2"> +: Corresponding Author </font> \
-<font size="2"> KCI: Indexed in Korea Citation Index </font> \
+<font size="2"> +: Corresponding Author </font> 
+<font size="2"> KCI: Indexed in Korea Citation Index </font> 
 <font size="2"> SSCI: Indexed in Social Citation Index </font>
 
 # Peer-reviewed Publications 
