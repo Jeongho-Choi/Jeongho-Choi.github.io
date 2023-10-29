@@ -5,19 +5,11 @@ permalink: /research/
 author_profile: false
 ---
 
-::: rSection
-Peer-reviewed Publications Woo, Byung-Deuk and **Jeongho Choi**.
-2022."The Influence of Subnational Democracy on the Level\
-of Public Health: A Case of Nigeria." Comparative Democratic Studies,
-18(2):5-28. [http://doi.
-org/10.34164/injede.2022.18.2.001](http://doi.org/10.34164/injede.2022.18.2.001)
+Peer-reviewed Publications 
+Woo, Byung-Deuk and **Jeongho Choi**. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria." Comparative Democratic Studies, 18(2):5-28. [http://doi.org/10.34164/injede.2022.18.2.001](http://doi.org/10.34164/injede.2022.18.2.001)
 
-**Choi, Jeongho** and Byung-Deuk Woo. 2021. "The Legacy of Pro-Democracy
-Mass Protest and Dem-\
-ocratic Survival: A Cross-National Survival Analysis from 1946 to 2016."
-Social Science Studies,\
-29(2):76-125. <http://doi.org/10.17787/jsgiss.2021.29.2.76>
-:::
+**Choi, Jeongho** and Byung-Deuk Woo. 2021. "The Legacy of Pro-Democracy Mass Protest and Democratic Survival: A Cross-National Survival Analysis from 1946 to 2016." Social Science Studies, 29(2):76-125. <http://doi.org/10.17787/jsgiss.2021.29.2.76>
+
 
 ::: rSection
 Manuscripts under Review Hwang, Jeongnam and **Jeongho Choi**.
