@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ### Instructor, University of Iowa
-| Default | Left align | Center align 
 
 | ------------------------------------------|:------------:|------------------------:|
 | POLI:3160 Research with a PhD Student    | Fall 2023    | The University of Iowa  
