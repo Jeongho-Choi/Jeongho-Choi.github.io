@@ -4,16 +4,16 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-+: Corresponding Author \
-KCI: Indexed in Korea Citation Index \
-SSCI: Indexed in Social Citation Index \
+<font size="2"> +: Corresponding Author </font> \
+<font size="2"> KCI: Indexed in Korea Citation Index </font> \
+<font size="2"> SSCI: Indexed in Social Citation Index </font>
 
-## Peer-reviewed Publications 
+# Peer-reviewed Publications 
 Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria." Comparative Democratic Studies, 18(2):5-28. [http://doi.org/10.34164/injede.2022.18.2.001](http://doi.org/10.34164/injede.2022.18.2.001) [KCI]
 
 **Choi, Jeongho** and Byung-Deuk Woo. 2021. "The Legacy of Pro-Democracy Mass Protest and Democratic Survival: A Cross-National Survival Analysis from 1946 to 2016." Social Science Studies, 29(2):76-125. <http://doi.org/10.17787/jsgiss.2021.29.2.76> [KCI]
 
-## Manuscripts under Review 
+# Manuscripts under Review 
 Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>."Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries" (R&R at *International Migration Review*)
 
 **Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" (R&R at *Democratization*)
@@ -26,7 +26,7 @@ Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. "The Impacts of Justification 
 
 **Choi, Jeongho** and Byung-Deuk Woo."Public Support for Democracy and Different Patterns of Democratic Backsliding"
 
-## Working papers 
+# Working papers 
 **Choi, Jeongho**."The Populist Rhetoric: A Text Analysis (STM) of Hungarian Prime Minister Victor Orban's Public Speech from 2014 to 2020"
 
 **Choi, Jeongho**."Two Roots of an Individual's Support for Populism:The Interaction between an Individual Grievance and the Level of Political Representation"
