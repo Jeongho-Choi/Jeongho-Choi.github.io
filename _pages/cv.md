@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[files/Jeongho_Choi_CV__102923.pdf](Downlaod the CV.)(Last updated on October 29, 2023)
+[https://jeongho-choi.github.io/files/Jeongho_Choi_CV__102923.pdf](Downlaod the CV.)(Last updated on October 29, 2023)
 
 
