@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, this is Jeongho Choi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,8 @@ redirect_from:
 
 Hello! Welcome to my academic website!
 =====
-I am a Ph.D. Candidate in Political Science in the Department of Political Science at The University of Iowa. My research areas are comparative politics and political methodology, focusing in particular on populism, political representation, and public notions of different democracy. Methodologically, I leverage advanced quantitative methods, especially multilevel modelling, computational text analysis and Machine Learning.
+I am a Ph.D. student in Political Science in the Department of Political Science at [The University of Iowa](https://politicalscience.uiowa.edu/). My research areas encompass comparative politics and political methodology, with a specific focus on populism, political representation, and public perceptions of different democratic systems. Methodologically, I employ several quantitative methods, particularly multilevel modeling, computational text analysis, and machine learning.
 
-I am planning to defend my dissertation by May 2025. In my dissertation, I systematically theorize and examine the influence of political representation by exisitng political system on public support for populism.
+I am currently planning to defend my dissertation by May 2025. In my dissertation, I systematically theorize and examine the impact of political representation within existing political systems on public support for populism.
+
+I hold a both a M.A. and a B.A. in Political Science from Kyung Hee University, South Korea.
