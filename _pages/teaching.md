@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### Instructor, University of Iowa
-Default | Left align | Center align 
-------------------------------------------|:------------:|------------------------:|
- POLI:3160 Research with a PhD Student    | Fall 2023    | The University of Iowa  
- Math Camp for Incoming Graduate Student  | Summer 2023  | The University of Iowa  
+| Default | Left align | Center align 
+| ------------------------------------------|:------------:|------------------------:|
+| POLI:3160 Research with a PhD Student    | Fall 2023    | The University of Iowa  
+| Math Camp for Incoming Graduate Student  | Summer 2023  | The University of Iowa  
 
 ### Teaching Assistant, University of Iowa
 | POLI 1400: Intro to Comparative Politics     | Spring 2022               | The University of Iowa    |
