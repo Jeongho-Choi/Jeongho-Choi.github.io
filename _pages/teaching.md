@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ### Instructor
-
 POLI:3160 Research with a PhD Student Fall 2023 The University of Iowa\
 Math Camp for Incoming Graduate Student Summer 2023 The University of Iowa
 
