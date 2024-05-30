@@ -17,7 +17,7 @@ author_profile: no
 </div>
 
 ## Peer-reviewed Publications 
-[4] **Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" *Democratization* (Conditionally accepted at minor revisions)
+[4] **Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" *Democratization* (Conditionally accepted with minor revisions)
 
 [3] Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>."Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries." *International Migration Review*, <https://doi.org/10.1177/01979183231225941> [SSCI]
 
