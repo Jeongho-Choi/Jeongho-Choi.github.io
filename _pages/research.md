@@ -32,11 +32,11 @@ author_profile: yes
 [1] Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. "Who is to Blame? An Analysis of News Media Framing of Government Response to the 2023 Turkey-Syria Earthquake" (authors in alphabetical order).
 
 ## Working papers
-[5] **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding"
+[6] **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding"
 
-[4] Ahn, Seongjoon and **Jeongho Choi**. "Critical Junctures and Media Portrayal of Democracy from the 2000 to 2021"
+[5] Ahn, Seongjoon and **Jeongho Choi**. "Critical Junctures and Media Portrayal of Democracy from the 2000 to 2021"
 
-[3] **Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"
+[4] **Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"
 
 [3] **Choi, Jeongho** and Yujin Julia Jung. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters" (in progress)
 
