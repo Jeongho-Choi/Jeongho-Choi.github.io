@@ -2,15 +2,13 @@
 title: "Research"
 layout: archive
 permalink: /research/
-author_profile: yes
+author_profile: no
 ---
 <div style="font-size: small; line-height: 1.5;">
   +: Corresponding Author<br>
   KCI: Indexed in Korea Citation Index<br>
   SSCI: Indexed in Social Citation Index
 </div>
-
-\vspace{-5truemm}
 
 ## Peer-reviewed Publications 
 [4] **Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" *Democratization* (Conditionally accepted at minor revisions)
@@ -20,8 +18,6 @@ author_profile: yes
 [2] Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria." *Comparative Democratic Studies*, 18(2):5-28. [http://doi.org/10.34164/injede.2022.18.2.001](http://doi.org/10.34164/injede.2022.18.2.001) [KCI]
 
 [1] **Choi, Jeongho** and Byung-Deuk Woo. 2021. "The Legacy of Pro-Democracy Mass Protest and Democratic Survival: A Cross-National Survival Analysis from 1946 to 2016." *Social Science Studies*, 29(2):76-125. <http://doi.org/10.17787/jsgiss.2021.29.2.76> [KCI]
-
-\vspace{-5truemm}
 
 ## Manuscripts under Review 
 [6] Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "The Impacts of Justification of Income Inequality on the Confidence in Women’s Movements: Empirical Evidence from Asian Countries."
@@ -36,8 +32,6 @@ author_profile: yes
 
 [1] Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. "Who is to Blame? An Analysis of News Media Framing of Government Response to the 2023 Turkey-Syria Earthquake" (authors in alphabetical order).
 
-\vspace{-5truemm}
-
 ## Working papers
 [6] **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding"
 
@@ -50,5 +44,3 @@ author_profile: yes
 [2] Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Political Discontent and Regime Instability" (in progress)
 
 [1] **Choi, Jeongho** and Eduardo Ryo Tamaki. "Political Representation and Public Support for Populism in Latin America" (in progress)
-
-
