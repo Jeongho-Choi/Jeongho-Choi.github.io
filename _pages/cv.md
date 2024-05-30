@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download the CV.](https://jeongho-choi.github.io/files/Jeongho_Choi_CV__102923.pdf) (Last updated on October 29, 2023)
+[Download the CV.](https://www.dropbox.com/scl/fi/93p6y838xdwjjcy2ekc7k/Jeongho_Choi_cv.pdf?rlkey=oembaiihsxbib776py9s5skyd&st=1b8i92m0&dl=0) (Last updated)
 
-<embed src="https://jeongho-choi.github.io/files/Jeongho_Choi_CV__102923.pdf" type="application/pdf" />
-
-
+<embed src="https://www.dropbox.com/scl/fi/93p6y838xdwjjcy2ekc7k/Jeongho_Choi_cv.pdf?rlkey=oembaiihsxbib776py9s5skyd&st=1b8i92m0&raw=1" type="application/pdf" />

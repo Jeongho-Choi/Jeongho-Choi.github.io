@@ -9,7 +9,6 @@ author_profile: yes
   KCI: Indexed in Korea Citation Index<br>
   SSCI: Indexed in Social Citation Index
 </div>
-   
 ## Peer-reviewed Publications 
 [4] **Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" *Democratization* (Conditionally accepted at minor revisions)
 
