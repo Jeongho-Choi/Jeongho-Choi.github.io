@@ -4,12 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-###### +: Corresponding Author  
-
-###### KCI: Indexed in Korea Citation Index   
-
-###### SSCI: Indexed in Social Citation Index   
-
+##### +: Corresponding Author &nbsp;&nbsp; KCI: Indexed in Korea Citation Index &nbsp;&nbsp; SSCI: Indexed in Social Citation Index
+   
 ## Peer-reviewed Publications 
 Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria." Comparative Democratic Studies, 18(2):5-28. [http://doi.org/10.34164/injede.2022.18.2.001](http://doi.org/10.34164/injede.2022.18.2.001) [KCI]
 
