@@ -11,13 +11,18 @@ author_profile: yes
 </div>
    
 ## Peer-reviewed Publications 
-**Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" *Democratization* (Conditionally accepted at minor revisions)
+| **Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" *Democratization* 
+|     (Conditionally accepted at minor revisions)
 
-Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>."Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries." *International Migration Review*, <https://doi.org/10.1177/01979183231225941> [SSCI]
+| Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>."Unwelcome Immigrants Knocking on the Door: Demographic Features of 
+|     Immigrants and Populist Attitudes Rising in South American Countries." *International Migration Review*, 
+|     <https://doi.org/10.1177/01979183231225941> [SSCI]
 
-Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria." *Comparative Democratic Studies*, 18(2):5-28. [http://doi.org/10.34164/injede.2022.18.2.001](http://doi.org/10.34164/injede.2022.18.2.001) [KCI]
+| Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case
+|     of Nigeria." *Comparative Democratic Studies*, 18(2):5-28. [http://doi.org/10.34164/injede.2022.18.2.001](http://doi.org/10.34164/injede.2022.18.2.001) [KCI]
 
-**Choi, Jeongho** and Byung-Deuk Woo. 2021. "The Legacy of Pro-Democracy Mass Protest and Democratic Survival: A Cross-National Survival Analysis from 1946 to 2016." *Social Science Studies*, 29(2):76-125. <http://doi.org/10.17787/jsgiss.2021.29.2.76> [KCI]
+| **Choi, Jeongho** and Byung-Deuk Woo. 2021. "The Legacy of Pro-Democracy Mass Protest and Democratic Survival: A 
+|     Cross-National Survival Analysis from 1946 to 2016." *Social Science Studies*, 29(2):76-125. <http://doi.org/10.17787/jsgiss.2021.29.2.76> [KCI]
 
 ## Manuscripts under Review 
 Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "The Impacts of Justification of Income Inequality on the Confidence in Women’s Movements: Empirical Evidence from Asian Countries."
@@ -33,16 +38,16 @@ Ma, Haofeng and <strong>Jeongho Choi</strong><sup>+</sup>. "National versus Ethn
 Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. "Who is to Blame? An Analysis of News Media Framing of Government Response to the 2023 Turkey-Syria Earthquake" (authors in alphabetical order).
 
 ## Working papers 
-<strong>Choi, Jeongho</strong> and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding."
+**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding"
 
-Ahn, Seongjoon and <strong>Jeongho Choi</strong>. "Critical Junctures and Media Portrayal of Democracy from the 2000 to 2021."
+Ahn, Seongjoon and **Jeongho Choi**. "Critical Junctures and Media Portrayal of Democracy from the 2000 to 2021"
 
-<strong>Choi, Jeongho</strong> and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric."
+**Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"
 
-<strong>Choi, Jeongho</strong> and Yujin Julia Jung. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters" (in progress).
+**Choi, Jeongho** and Yujin Julia Jung. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters" (in progress)
 
-Ma, Haofeng, <strong>Jeongho Choi</strong>, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Political Discontent and Regime Instability" (in progress).
+Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Political Discontent and Regime Instability" (in progress)
 
-<strong>Choi, Jeongho</strong> and Eduardo Ryo Tamaki. "Political Representation and Public Support for Populism in Latin America" (in progress).
+**Choi, Jeongho** and Eduardo Ryo Tamaki. "Political Representation and Public Support for Populism in Latin America" (in progress)
 
 
