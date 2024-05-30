@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 author_profile: yes
 ---
-<div style="font-size: x-small; line-height: 1.5;">
+<div style="font-size: small; line-height: 1.5;">
   +: Corresponding Author<br>
   KCI: Indexed in Korea Citation Index<br>
   SSCI: Indexed in Social Citation Index
