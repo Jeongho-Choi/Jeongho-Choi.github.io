@@ -4,6 +4,16 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: no
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XZ9RD26H30"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XZ9RD26H30');
+</script>
+
 <style>
   h2 {
     margin-top: 10px; /* 원하는 여백값으로 조정 */
