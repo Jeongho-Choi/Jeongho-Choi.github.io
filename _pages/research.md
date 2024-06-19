@@ -4,18 +4,17 @@ layout: archive
 permalink: /research/
 author_profile: no
 ---
-
-```{=html}
 <style>
   h2 {
     margin-top: 10px; /* 원하는 여백값으로 조정 */
     margin-bottom: 10px; /* 원하는 여백값으로 조정 */
   }
 </style>
-```
-::: {style="font-size: small; line-height: 1.5;"}
-+: Corresponding Author<br> KCI: Indexed in Korea Citation Index<br> SSCI: Indexed in Social Citation Index
-:::
+<div style="font-size: small; line-height: 1.5;">
+  +: Corresponding Author<br>
+  KCI: Indexed in Korea Citation Index<br>
+  SSCI: Indexed in Social Citation Index
+</div>
 
 ## Peer-reviewed Publications
 
