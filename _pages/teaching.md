@@ -13,7 +13,6 @@ author_profile: no
 
 ## Instructor
 POLI:3000:0001 Analyzing Political Data Fall 2024 \
-POLI:3160 Research with a PhD Student Fall 2023 \
 Math Camp for Incoming Graduate Student Summer 2023, Summer 2024
 
 ## Teaching Assistant
