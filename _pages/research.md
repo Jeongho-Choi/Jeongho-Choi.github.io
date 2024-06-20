@@ -46,14 +46,18 @@ Ahn, Seongjoon and **Jeongho Choi**<sup>+</sup>. "Democratic Backsliding as Poli
 
 ## Working papers
 
-**Choi, Jeongho**. "Political Representation and Public Support for Populism in Europe"
+**Choi, Jeongho**. "Political Roots of Populism: Substantive Representation and the Public Support for Populism in Europe."
 
 Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Political Discontent and Regime Instability"
 
 **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding"
+
+**Choi, Jeongho** and Byung-Deuk Woo. "How Does Partisanship Affect Individuals' Attitude toward Immigration Policies?"
 
 **Choi, Jeongho** and Yujin Julia Jung. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters"
 
 **Choi, Jeongho** and Eduardo Ryo Tamaki. "Political Representation and Public Support for Populism in Latin America" (in progress)
 
 **Choi, Jeongho** and Yujin Julia Jung. "Created Crisis or Speaking Up for People's Concerns? The Relationship between Populism and Immigration."
+
+**Choi, Jeongho** "Political Representation and Public Support for Populism in Asia." (in progress)
