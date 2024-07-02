@@ -30,7 +30,7 @@ Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnati
 
 Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. "Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru." (R&R)
 
-<strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment."
+<strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." (R&R)
 
 Ma, Haofeng and <strong>Jeongho Choi</strong><sup>+</sup>. "National versus Ethnic Language: How Does the Language of Instruction in Schools Shape Ethnic Minorities' Political Support?"
 
