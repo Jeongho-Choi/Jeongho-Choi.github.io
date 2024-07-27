@@ -48,6 +48,9 @@ Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 
 **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding"
 
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "he Influence of Public Negative Sentiments on Violence
+Against Women and Bill Success"
+
 ## Working papers
 
 **Choi, Jeongho**. "Political Roots of Populism: Substantive Representation and the Public Support for Populism in Europe."
