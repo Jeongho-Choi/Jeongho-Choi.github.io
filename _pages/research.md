@@ -4,21 +4,22 @@ layout: archive
 permalink: /research/
 author_profile: no
 ---
+
+```{=html}
 <style>
   h2 {
     margin-top: 10px; /* 원하는 여백값으로 조정 */
     margin-bottom: 10px; /* 원하는 여백값으로 조정 */
   }
 </style>
-<div style="font-size: small; line-height: 1.5;">
-  +: Corresponding Author<br>
-  KCI: Indexed in Korea Citation Index<br>
-  SSCI: Indexed in Social Citation Index
-</div>
+```
+::: {style="font-size: small; line-height: 1.5;"}
++: Corresponding Author<br> KCI: Indexed in Korea Citation Index<br> SSCI: Indexed in Social Citation Index
+:::
 
 ## Peer-reviewed Publications
 
-**Choi, Jeongho** and Byung-Deuk Woo. "Support for a Strong Leader or Democracy, or Both?" *Democratization* (Conditionally accepted with minor revisions)
+**Choi, Jeongho** and Byung-Deuk Woo. *Forthcoming.* "Support for a Strong Leader or Democracy, or Both?" *Democratization*.
 
 Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>."Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries." *International Migration Review*, <https://doi.org/10.1177/01979183231225941> [SSCI]
 
@@ -32,28 +33,29 @@ Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</
 
 <strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." (R&R)
 
-Ma, Haofeng and <strong>Jeongho Choi</strong><sup>+</sup>. "National versus Ethnic Language: How Does the Language of Instruction in Schools Shape Ethnic Minorities' Political Support?"
-
 Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "The Impacts of Justification of Income Inequality on the Confidence in Women's Movements: Empirical Evidence from Asian Countries."
 
 Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. "A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake" (authors in alphabetical order).
 
 Ahn, Seongjoon and **Jeongho Choi**<sup>+</sup>. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time"
 
-**Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric"
+**Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric."
 
 <strong>Choi, Jeongho</strong> and Byung-Deuk Woo. "Public Support for Democracy and Different Patterns of Democratic Backsliding."
 
-Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Political Discontent and Regime Instability"
+**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding in Asia"
 
-**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding"
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "he Influence of Public Negative Sentiments on Violence Against Women and Bill Success"
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "he Influence of Public Negative Sentiments on Violence
-Against Women and Bill Success"
+Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent."
+
+Ma, Haofeng and <strong>Jeongho Choi</strong><sup>+</sup>. "National versus Ethnic Language: How Does the Language of Instruction in Schools Shape Ethnic Minorities' Political Support?"
 
 ## Working papers
 
 **Choi, Jeongho**. "Political Roots of Populism: Substantive Representation and the Public Support for Populism in Europe."
+
+**Choi, Jeongho** "Political Representation and Public Support for Populism in Southeast Asia." (in progress)
 
 **Choi, Jeongho** and Byung-Deuk Woo. "How Does Partisanship Affect Individuals' Attitude toward Immigration Policies?"
 
@@ -62,5 +64,3 @@ Against Women and Bill Success"
 **Choi, Jeongho** and Eduardo Ryo Tamaki. "Political Representation and Public Support for Populism in Latin America" (in progress)
 
 **Choi, Jeongho** and Yujin Julia Jung. "Created Crisis or Speaking Up for People's Concerns? The Relationship between Populism and Immigration."
-
-**Choi, Jeongho** "Political Representation and Public Support for Populism in Asia." (in progress)
