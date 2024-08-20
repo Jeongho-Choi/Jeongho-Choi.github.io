@@ -21,6 +21,8 @@ author_profile: no
 
 **Choi, Jeongho** and Byung-Deuk Woo. *Forthcoming.* "Support for a Strong Leader or Democracy, or Both?" *Democratization*.
 
+Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. *Forthcoming.* "Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru." *Social Science Quarterly*
+
 Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>."Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries." *International Migration Review*, <https://doi.org/10.1177/01979183231225941> [SSCI]
 
 Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria." *Comparative Democratic Studies*, 18(2):5-28. <http://doi.org/10.34164/injede.2022.18.2.001> [KCI]
@@ -28,8 +30,6 @@ Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnati
 **Choi, Jeongho** and Byung-Deuk Woo. 2021. "The Legacy of Pro-Democracy Mass Protest and Democratic Survival: A Cross-National Survival Analysis from 1946 to 2016." *Social Science Studies*, 29(2):76-125. <http://doi.org/10.17787/jsgiss.2021.29.2.76> [KCI]
 
 ## Manuscripts under Review
-
-Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. "Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru." (R&R)
 
 <strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." (R&R)
 
