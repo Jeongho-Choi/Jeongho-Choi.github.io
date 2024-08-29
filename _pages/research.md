@@ -19,7 +19,7 @@ author_profile: no
 
 ## Peer-reviewed Publications
 
-**Choi, Jeongho** and Byung-Deuk Woo. *Forthcoming.* "Support for a Strong Leader or Democracy, or Both?" *Democratization*.
+**Choi, Jeongho** and Byung-Deuk Woo. 2024 "Support for a Strong Leader or Democracy, or Both?" *Democratization*. <https://doi.org/10.1080/13510347.2024.2392643> [SSCI]
 
 Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. *Forthcoming.* "Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru." *Social Science Quarterly*
 
@@ -47,7 +47,7 @@ Ahn, Seongjoon and **Jeongho Choi**<sup>+</sup>. "Democratic Backsliding as Poli
 
 Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "he Influence of Public Negative Sentiments on Violence Against Women and Bill Success"
 
-Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent."
+Ma, Haofeng, **Jeongho Choi**<sup>+</sup>, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent Across Countries."
 
 Ma, Haofeng and <strong>Jeongho Choi</strong><sup>+</sup>. "National versus Ethnic Language: How Does the Language of Instruction in Schools Shape Ethnic Minorities' Political Support?"
 
