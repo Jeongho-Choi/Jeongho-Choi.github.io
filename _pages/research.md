@@ -19,11 +19,11 @@ author_profile: no
 
 ## Peer-reviewed Publications
 
-**Choi, Jeongho** and Byung-Deuk Woo. 2024 "Support for a Strong Leader or Democracy, or Both?" *Democratization*. <https://doi.org/10.1080/13510347.2024.2392643> [SSCI]
+**Choi, Jeongho** and Byung-Deuk Woo. 2024. "Support for a Strong Leader or Democracy, or Both?" *Democratization*. <https://doi.org/10.1080/13510347.2024.2392643> [SSCI]
 
-Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. *Forthcoming.* "Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru." *Social Science Quarterly*
+Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. 2024. "Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru." *Social Science Quarterly*. <https://doi.org/10.1111/ssqu.13438> [SSCI]
 
-Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>."Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries." *International Migration Review*, <https://doi.org/10.1177/01979183231225941> [SSCI]
+Hwang, Jeongnam and **Jeongho Choi**<sup>+</sup>. 2024. "Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries." *International Migration Review*, <https://doi.org/10.1177/01979183231225941> [SSCI]
 
 Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnational Democracy on the Level of Public Health: A Case of Nigeria." *Comparative Democratic Studies*, 18(2):5-28. <http://doi.org/10.34164/injede.2022.18.2.001> [KCI]
 
