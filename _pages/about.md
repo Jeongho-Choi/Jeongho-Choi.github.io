@@ -14,4 +14,4 @@ My dissertation investigates how issue-congruence between the public and politic
 
 I serve on the Steering Committee of the [Young Scholars Initiative on Populism (OPUS)](https://populism.byu.edu/directory/jeongho-choi), a division within the international research network in populism studies, [Team Populism](https://populism.byu.edu/). I hold both an M.A. (Awarded Excellent Master thesis) and a B.A. (Graduated with High Distinction) in Political Science from Kyung Hee University, South Korea.
 
-My CV can be found [here.](https://www.dropbox.com/scl/fi/zjgy9u9hqfvfb7npa59tw/Jeongho_Choi_cv.pdf?rlkey=abj7ulwre46cbdjs5g4lktsci&st=w5ft2e07&dl=0)
+My CV can be found [here.](https://www.dropbox.com/scl/fi/rd2fdym43vb3hqjyr5uow/Jeongho_Choi_cv.pdf?rlkey=v1p9hglhw6uquyej4xxcgt71y&st=syeyclvr&dl=0)
