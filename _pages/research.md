@@ -33,9 +33,9 @@ Woo, Byung-Deuk and **Jeongho Choi**<sup>+</sup>. 2022."The Influence of Subnati
 
 <strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." (R&R)
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "The Impacts of Justification of Income Inequality on the Confidence in Women's Movements: Empirical Evidence from Asian Countries."
+Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. "A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake" (authors in alphabetical order). (R&R)
 
-Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. "A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake" (authors in alphabetical order).
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "The Impacts of Justification of Income Inequality on the Confidence in Women's Movements: Empirical Evidence from Asian Countries."
 
 Ahn, Seongjoon and **Jeongho Choi**<sup>+</sup>. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time"
 
