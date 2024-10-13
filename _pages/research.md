@@ -37,17 +37,17 @@ Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elis
 
 Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "The Impacts of Justification of Income Inequality on the Confidence in Women's Movements: Empirical Evidence from Asian Countries."
 
-Ahn, Seongjoon and **Jeongho Choi**<sup>+</sup>. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time"
+Ma, Haofeng, **Jeongho Choi**<sup>+</sup>, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent Across Countries."
 
 **Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric."
 
 <strong>Choi, Jeongho</strong> and Byung-Deuk Woo. "Public Support for Democracy and Different Patterns of Democratic Backsliding."
 
+Ahn, Seongjoon and **Jeongho Choi**<sup>+</sup>. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time"
+
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "The Influence of Public Negative Sentiments on Violence Against Women and Bill Success"
+
 **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding in Asia"
-
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong><sup>+</sup>. "he Influence of Public Negative Sentiments on Violence Against Women and Bill Success"
-
-Ma, Haofeng, **Jeongho Choi**<sup>+</sup>, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent Across Countries."
 
 Ma, Haofeng and <strong>Jeongho Choi</strong><sup>+</sup>. "National versus Ethnic Language: How Does the Language of Instruction in Schools Shape Ethnic Minorities' Political Support?"
 
