@@ -24,8 +24,6 @@ Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Inform
 
 <strong>Choi, Jeongho</strong> and Byung-Deuk Woo. "Public Support for Democracy and Different Patterns of Democratic Backsliding."
 
-**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding in Asia."
-
 Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent Across Countries." (Corresponding)
 
 Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Negative Sentiments on Violence Against Women and Bill Success." (Corresponding)
@@ -36,6 +34,9 @@ Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification
 
 ## Working papers
 
+**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guard-
+ianship Democracy, and Democratic Backsliding."
+
 **Choi, Jeongho** and Yujin Julia Jung. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters."
 
 **Choi, Jeongho** and Eduardo Ryo Tamaki. "Political Representation and Public Support for Populism in Latin America."
@@ -44,4 +45,5 @@ Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification
 
 **Choi, Jeongho** and Yujin Julia Jung. "Created Crisis or Speaking Up for People's Concerns? The Relationship between Populism and Immigration." (in progress)
 
-**Choi, Jeongho** and Haofeng Ma. "Deceptiveness in Political Leadership and Its Impact on Democratic Backsliding" (in progress)
+**Choi, Jeongho** and Haofeng Ma. “Deceptiveness in Political Leadership and Its Impact on
+Democratic Backsliding” (in progress)
