@@ -20,6 +20,8 @@ Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on t
 
 **Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric." (R&R)
 
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in Women's Movements: Empirical Evidence from Asian Countries." (Corresponding) (Minor Revision)
+
 Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding)
 
 <strong>Choi, Jeongho</strong> and Byung-Deuk Woo. "Public Support for Democracy and Different Patterns of Democratic Backsliding."
@@ -29,8 +31,6 @@ Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Negative Sentiments on Violence Against Women and Bill Success." (Corresponding)
 
 Ma, Haofeng and <strong>Jeongho Choi</strong>. "National versus Ethnic Language: How Does the Language of Instruction in Schools Shape Ethnic Minorities' Political Support?" (Corresponding)
-
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in Women's Movements: Empirical Evidence from Asian Countries." (Corresponding)
 
 ## Working papers
 
