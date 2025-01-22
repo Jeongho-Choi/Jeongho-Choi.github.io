@@ -6,13 +6,13 @@ author_profile: no
 ---
 ## Peer-reviewed Publications
 
-**Choi, Jeongho** and Byung-Deuk Woo. 2024. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization.*
+**Choi, Jeongho** and Byung-Deuk Woo. 2024. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization* 32 (1): 76-95.
 
-Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. 2024. "[Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru.](https://doi.org/10.1111/ssqu.13438)" *Social Science Quarterly.*
-
-Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. Forthcoming. "A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake." *Journal of Contingencies and Crisis Management.* (authors in alphabetical order).
+Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. 2024. "[Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru.](https://doi.org/10.1111/ssqu.13438)" *Social Science Quarterly* 05: 1493-1504.
 
 Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries.](https://doi.org/10.1177/01979183231225941)" *International Migration Review.* (Corresponding)
+
+Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. 2025. "[A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake.](https://doi.org/10.1111/1468-5973.70023)" *Journal of Contingencies and Crisis Management* 33. (authors in alphabetical order).
 
 ## Manuscripts under Review
 
@@ -20,7 +20,7 @@ Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on t
 
 **Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric." (R&R)
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in Women's Movements: Empirical Evidence from Asian Countries." (Corresponding) (Minor Revision)
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries." (Corresponding) (Minor Revision)
 
 Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding)
 
@@ -34,16 +34,18 @@ Ma, Haofeng and <strong>Jeongho Choi</strong>. "National versus Ethnic Language:
 
 ## Working papers
 
-**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guard-
-ianship Democracy, and Democratic Backsliding."
+**Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding."
 
 **Choi, Jeongho** and Yujin Julia Jung. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters."
 
 **Choi, Jeongho** and Eduardo Ryo Tamaki. "Political Representation and Public Support for Populism in Latin America."
 
-**Choi, Jeongho** and Seongjoon Ahn. "Beyond the "Losers of Globalization": Unpacking Socioeconomic Diversity in European Populist Support." (in progress)
+**Choi, Jeongho** and Seongjoon Ahn. "Beyond the "Losers of Globalization": Unpacking Socioeconomic Diversity in European Populist Support." (in progress, scheduled for MPSA presentation)
+
+**Choi, Jeongho** and Haofeng Ma. “Deceptiveness in Political Leadership and Its Impact on Democratic Backsliding.” (in progress, scheduled for MPSA presentation)
 
 **Choi, Jeongho** and Yujin Julia Jung. "Created Crisis or Speaking Up for People's Concerns? The Relationship between Populism and Immigration." (in progress)
 
-**Choi, Jeongho** and Haofeng Ma. “Deceptiveness in Political Leadership and Its Impact on
-Democratic Backsliding” (in progress)
+**Choi, Jeongho**. "Ideological Divides and Opposition Cooperation in Countering Democratic Backsliding." (in progress)
+
+**Choi, Jeongho**. "How Perceptions of Democracy Shape Citizens’ Views on Representation." (in progress)
