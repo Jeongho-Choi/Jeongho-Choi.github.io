@@ -6,13 +6,13 @@ author_profile: no
 ---
 ## Peer-reviewed Publications
 
-**Choi, Jeongho** and Byung-Deuk Woo. 2024. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization* 32 (1): 76-95.
-
-Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. 2024. "[Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru.](https://doi.org/10.1111/ssqu.13438)" *Social Science Quarterly* 05: 1493-1504.
-
-Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries.](https://doi.org/10.1177/01979183231225941)" *International Migration Review.* (Corresponding)
+**Choi, Jeongho** and Byung-Deuk Woo. 2025. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization* 32 (1): 76-95.
 
 Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. 2025. "[A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake.](https://doi.org/10.1111/1468-5973.70023)" *Journal of Contingencies and Crisis Management* 33. (authors in alphabetical order).
+
+Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. 2024. "[Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru.](https://doi.org/10.1111/ssqu.13438)" *Social Science Quarterly* 105: 1493-1504.
+
+Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries.](https://doi.org/10.1177/01979183231225941)" *International Migration Review.* (Corresponding)
 
 ## Manuscripts under Review
 
@@ -28,9 +28,9 @@ Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Inform
 
 Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent Across Countries." (Corresponding)
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Negative Sentiments on Violence Against Women and Bill Success." (Corresponding)
+Ma, Haofeng and <strong>Jeongho Choi</strong>. "Manufacturing Political Support through Language." (Corresponding)
 
-Ma, Haofeng and <strong>Jeongho Choi</strong>. "National versus Ethnic Language: How Does the Language of Instruction in Schools Shape Ethnic Minorities' Political Support?" (Corresponding)
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Negative Sentiments on Violence Against Women and Bill Success." (Corresponding)
 
 ## Working papers
 
@@ -42,10 +42,11 @@ Ma, Haofeng and <strong>Jeongho Choi</strong>. "National versus Ethnic Language:
 
 **Choi, Jeongho** and Seongjoon Ahn. "Beyond the "Losers of Globalization": Unpacking Socioeconomic Diversity in European Populist Support." (in progress, scheduled for MPSA presentation)
 
-**Choi, Jeongho** and Haofeng Ma. “Deceptiveness in Political Leadership and Its Impact on Democratic Backsliding.” (in progress, scheduled for MPSA presentation)
+**Choi, Jeongho** and Haofeng Ma. “he Deceptiveness of Presidential Personas: The Gap
+Between Spontaneous and Formal Leadership Traits and Its Impact on Political Trust.” (in progress, scheduled for MPSA presentation)
 
 **Choi, Jeongho** and Yujin Julia Jung. "Created Crisis or Speaking Up for People's Concerns? The Relationship between Populism and Immigration." (in progress)
 
 **Choi, Jeongho**. "Ideological Divides and Opposition Cooperation in Countering Democratic Backsliding." (in progress)
 
-**Choi, Jeongho**. "How Perceptions of Democracy Shape Citizens’ Views on Representation." (in progress)
+**Choi, Jeongho** and Byung-Deuk Woo. "How Perceptions of Democracy Shape Citizens’ Views on Representation." (in progress)
