@@ -42,7 +42,7 @@ Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Nega
 
 **Choi, Jeongho** and Seongjoon Ahn. "Beyond the "Losers of Globalization": Unpacking Socioeconomic Diversity in European Populist Support." (in progress, scheduled for MPSA presentation)
 
-**Choi, Jeongho** and Haofeng Ma. “he Deceptiveness of Presidential Personas: The Gap
+**Choi, Jeongho** and Haofeng Ma. “The Deceptiveness of Presidential Personas: The Gap
 Between Spontaneous and Formal Leadership Traits and Its Impact on Political Trust.” (in progress, scheduled for MPSA presentation)
 
 **Choi, Jeongho** and Yujin Julia Jung. "Created Crisis or Speaking Up for People's Concerns? The Relationship between Populism and Immigration." (in progress)
