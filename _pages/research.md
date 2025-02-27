@@ -20,7 +20,7 @@ Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on t
 
 **Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric." (R&R)
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries." (Corresponding) (Minor Revision)
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries." (Corresponding; Minor Revision)
 
 Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding)
 
@@ -30,7 +30,7 @@ Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 
 Ma, Haofeng and <strong>Jeongho Choi</strong>. "Manufacturing Political Support through Language." (Corresponding)
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Negative Sentiments on Violence Against Women and Bill Success." (Corresponding)
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Negative Sentiments on Bill Success." (Corresponding)
 
 ## Working papers
 
@@ -50,3 +50,9 @@ Between Spontaneous and Formal Leadership Traits and Its Impact on Political Tru
 **Choi, Jeongho**. "Ideological Divides and Opposition Cooperation in Countering Democratic Backsliding." (in progress)
 
 **Choi, Jeongho** and Byung-Deuk Woo. "How Perceptions of Democracy Shape Citizens’ Views on Representation." (in progress)
+
+**Choi, Jeongho** and Seongjoon Ahn. “The Power of Democratic Frames: A Survey Experiment
+on Public Perceptions.” (in progress)
+
+Seo, Heyri, Soojin Lee, and **Jeongho Choi**. “Hate, Fear, and Gender: Why Some Democracies
+Resist Far-Right Rhetoric While Others Normalize It.” (in progress)
