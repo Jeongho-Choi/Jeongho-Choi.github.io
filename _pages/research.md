@@ -10,13 +10,14 @@ author_profile: no
 
 Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. 2025. "[A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake.](https://doi.org/10.1111/1468-5973.70023)" *Journal of Contingencies and Crisis Management* 33. (authors in alphabetical order).
 
+<strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." 
+Accepted. *Journal of Contemporary European Studies*
+
 Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. 2024. "[Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru.](https://doi.org/10.1111/ssqu.13438)" *Social Science Quarterly* 105: 1493-1504.
 
 Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on the Door: Demographic Features of Immigrants and Populist Attitudes Rising in South American Countries.](https://doi.org/10.1177/01979183231225941)" *International Migration Review.* (Corresponding)
 
 ## Manuscripts under Review
-
-<strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." (R&R)
 
 **Choi, Jeongho** and Yujin Julia Jung. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric." (R&R)
 
