@@ -13,7 +13,7 @@ author_profile: no
 
 Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. 2025. "[A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake.](https://doi.org/10.1111/1468-5973.70023)" *Journal of Contingencies and Crisis Management* 33. (authors in alphabetical order).
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries." *Accepted with minor revision at Sage Open* (Corresponding; Minor Revision)
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries." *Accepted with minor revision at Sage Open* (Corresponding)
 
 Mitchell, Sara McLaughlin, Elise Pizzi, Carly Millerd and <strong>Jeongho Choi</strong>. 2024. "[Does Government Response to Natural Disasters Explain Violence? The Case of the Sendero Luminoso and Conflict in Peru.](https://doi.org/10.1111/ssqu.13438)" *Social Science Quarterly* 105: 1493-1504.
 
