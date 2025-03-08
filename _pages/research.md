@@ -7,7 +7,7 @@ author_profile: no
 
 ## Peer-reviewed Publications
 
-<strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." *Accepted with minor revision at Journal of Contemporary European Studies.*
+<p style="margin-bottom: 5px;"><strong>Choi, Jeongho</strong>. "Evolving Populist Rhetoric: How Public Approval Shapes its Employment." *Accepted with minor revision at Journal of Contemporary European Studies.*</p>
 
 **Choi, Jeongho** and Byung-Deuk Woo. 2025. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization* 32 (1): 76-95.
 
