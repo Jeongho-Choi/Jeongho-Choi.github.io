@@ -11,7 +11,7 @@ author_profile: no
 
 **Choi, Jeongho** and Byung-Deuk Woo. 2025. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization* 32 (1): 76-95.
 
-Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. 2025. "The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries." *Sage Open.* (Corresponding)
+Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. 2025. "[The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries.](https://doi.org/10.1177/21582440251335377)" *Sage Open.* (Corresponding)
 
 Binici, Simal, <strong>Jeongho Choi</strong>, Sara McLaughlin Mitchell, and Elise Pizzi. 2025. "[A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake.](https://doi.org/10.1111/1468-5973.70023)" *Journal of Contingencies and Crisis Management* 33. (authors in alphabetical order).
 
@@ -26,8 +26,6 @@ Hwang, Jeongnam and **Jeongho Choi**. 2024. "[Unwelcome Immigrants Knocking on t
 Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding)
 * Received Best Graduate Student Conference Paper, the dept of Poli Sci, University of Iowa.
 
-<strong>Choi, Jeongho</strong> and Byung-Deuk Woo. "Public Support for Democracy and Different Patterns of Democratic Backsliding."
-
 Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. "Macrodiscontent Across Countries." (Corresponding)
 
 Ma, Haofeng and <strong>Jeongho Choi</strong>. "Manufacturing Political Support through Language: The Role of
@@ -36,6 +34,7 @@ Educational Language in Shaping Political Support among Minorities." (Correspond
 Woo, Byung-Deuk and <strong>Jeongho Choi</strong>. "The Influence of Public Negative Sentiments on Bill Success." (Corresponding)
 
 ## Working papers
+<strong>Choi, Jeongho</strong> and Byung-Deuk Woo. "Public Support for Democracy and Different Patterns of Democratic Backsliding."
 
 **Choi, Jeongho** and Haofeng Ma. "The Deceptiveness of Presidential Personas: The Gap Between Spontaneous and Formal Leadership Traits and Its Impact on Political Trust."
 * The paper will be featured in *The Year in C-SPAN Research* by Purdue University Press.
