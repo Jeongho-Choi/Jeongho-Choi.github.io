@@ -84,7 +84,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0; // ← Makes the image square (50% for oval)
 
     @include breakpoint($large) {
       padding: 5px;
