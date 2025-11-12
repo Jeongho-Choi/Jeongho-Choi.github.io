@@ -57,4 +57,4 @@ Marsilio, Simone, Jona-Frederik Baumert, **Jeongho Choi**, Morten Harmening and 
 
 Seo, Heyri, Soojin Lee, and **Jeongho Choi**. "Hate, Fear, and Gender: Why Some Democracies Resist Far-Right Rhetoric While Others Normalize It." (Corresponding)
 
-**Choi, Jeongho**, Haofeng Ma, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. ”Discontented Citizens and the Stability of Democracy.”
+**Choi, Jeongho**, Haofeng Ma, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Discontented Citizens and the Stability of Democracy.”
