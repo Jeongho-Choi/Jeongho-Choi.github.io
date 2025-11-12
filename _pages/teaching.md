@@ -6,24 +6,23 @@ author_profile: no
 ---
 
 ## Independent Instructor
-*Leibniz University Hannover* \
-Political Science Research Design I (Mater Level). Fall 2025 \
-Text as Data for Political Scientists (Undergrad and Master Level). Fall 2025 
+*Leibniz University Hannover*<br>
+Political Science Research Design I (Master’s level), Fall 2025<br>
+Text as Data for Political Scientists (Undergraduate & Master’s level), Fall 2025
 
-*University of Iowa* \
-Analyzing Political Data (Undergrad Level). Fall 2024
-* Recipient of the Campus-wide Outstanding TA Award, University of Iowa. \
+*University of Iowa*<br>
+Analyzing Political Data (Undergraduate), Fall 2024  
+- Recipient of the campus-wide Outstanding TA Award, University of Iowa
 
-Math Camp for Incoming Graduate Student. Summer 2023, Summer 2024
+Math Camp for Incoming Graduate Students, Summer 2023; Summer 2024
 
 ## Teaching Assistant
-*University of Iowa* \
-Intro to Comparative Politics (Undergrad Level). Spring 2022, Spring 2025 \
-Intro to American Foreign Policy (Undergrad Level). Fall 2020 - Spring 2021 \
-Statistical Laboratory Assistant. Fall 2020 - Fall 2021 
+*University of Iowa*<br>
+Introduction to Comparative Politics (Undergraduate), Spring 2022; Spring 2025<br>
+Introduction to American Foreign Policy (Undergraduate), Fall 2020 – Spring 2021<br>
+Statistical Laboratory Assistant, Fall 2020 – Fall 2021
 
-## Guest Lecture
-*University of Iowa* \
-Introductory Methodology (Ph.D. Student Level). Fall 2021 \
-STATA Sessions (Ph.D Student level). Fall 2021
-
+## Guest Lectures
+*University of Iowa*<br>
+Introductory Methodology (Ph.D. level), Fall 2021<br>
+Stata Sessions (Ph.D. level), Fall 2021
