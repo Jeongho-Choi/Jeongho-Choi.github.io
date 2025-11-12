@@ -14,7 +14,7 @@ Nyhuis, Dominic, Jona-Frederik Baumert, **Jeongho Choi**, Sebastian Block and Mo
 
 **Choi, Jeongho** and Byung-Deuk Woo. 2025. "[Support for a Strong Leader or Democracy, or Both?](https://doi.org/10.1080/13510347.2024.2392643)" *Democratization*, 32(1): 76-95.
 
-Woo, Byung-Deuk and **Jeongho Choi**. 2025. "[The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries.](https://doi.org/10.1177/21582440251335377)" *Sage Open*, 15(2) (Corresponding)
+Woo, Byung-Deuk and **Jeongho Choi**. 2025. "[The Impacts of Justification of Income Inequality on the Confidence in the Women's Movements: Empirical Evidence from Asia-Pacific Countries.](https://doi.org/10.1177/21582440251335377)" *Sage Open*, 15(2). (Corresponding)
 
 Binici, Simal, **Jeongho Choi**, Sara McLaughlin Mitchell, and Elise Pizzi. 2025. "[A Text Analysis of News Media Framing of Government Response to the 2023 Türkiye-Syria Earthquake.](https://doi.org/10.1111/1468-5973.70023)" *Journal of Contingencies and Crisis Management*, 33. (Authors in alphabetical order)
 
