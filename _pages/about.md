@@ -10,9 +10,10 @@ redirect_from:
 
 Hi, I am a [postdoctoral researcher](https://www.ipw.uni-hannover.de/de/) in the field of Computational Social Science at the Institute of Political Science, Leibniz University Hannover, Germany.
 
-My book project, *Substantive Political Representation and Public Support for Populism*, developed from my dissertation, examines how deficiencies in substantive representation of citizens’ interests foster support for populist parties, and how this relationship varies depending on individuals’ conceptions and support for democracy.
+My book project, <strong>*Substantive Political Representation and Public Support for Populism*</strong>, examines how deficiencies in substantive representation of citizens’ interests foster support for populist parties, and how this relationship varies depending on individuals’ conceptions and support for democracy.
 
-Broadly, my research investigates how political representation and political rhetoric—from both elites and the media—shape public support for populism, perceptions of democracy, and processes of democratic backsliding. I focus on three interrelated areas: 1) How substantive policy representation influences populist support across regional contexts, 2) How citizens’ understandings of democracy condition their support for populism and affect democratic resilience, and 3) How elite and media rhetoric strategically shapes public opinion.
+Broadly, my research investigates how political representation and political rhetoric—from both elites and the media—shape public support for populism, perceptions of democracy, and processes of democratic backsliding. 
+I focus on three interrelated areas: 1) How substantive policy representation influences populist support across regional contexts, 2) How citizens’ understandings of democracy condition their support for populism and affect democratic resilience, and 3) How elite and media rhetoric strategically shapes public opinion.
 
 Methodologically, I employ a range of quantitative approaches, including multilevel modeling, computational text analysis, and machine learning.
 
