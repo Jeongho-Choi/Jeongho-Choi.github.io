@@ -21,4 +21,4 @@ My research has appeared in journals such as *Democratization*, *Political Scien
 
 I hold a Ph.D. in Political Science from the University of Iowa in 2025, as well as an M.A. (Awarded Excellent Master’s Thesis) and a B.A. (Graduated with High Distinction) in Political Science from Kyung Hee University, South Korea.
 
-My CV can be found [here.](https://www.dropbox.com/scl/fi/rd2fdym43vb3hqjyr5uow/Jeongho_Choi_cv.pdf?rlkey=v1p9hglhw6uquyej4xxcgt71y&st=syeyclvr&dl=0)
+My CV can be found [here.](https://www.dropbox.com/scl/fi/gani0alvn46hd7on7ooza/Jeongho_Choi_cv.pdf?rlkey=wlnelr7ls8h7iv6q9k82nuw3x&st=n7fq0u3k&dl=0)
