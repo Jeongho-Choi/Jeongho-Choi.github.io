@@ -19,6 +19,6 @@ Methodologically, I employ a range of quantitative approaches, including multile
 
 My research has appeared in journals such as *Democratization*, *Political Science Research and Methods*, *Journal of Contemporary European Studies*, and *Social Science Quarterly*.
 
-I hold a Ph.D. in Political Science from the University of Iowa in 2025, as well as an M.A. (awarded for Excellent Master’s Thesis) and a B.A. (Graduated with High Distinction) in Political Science from Kyung Hee University, South Korea.
+I hold a Ph.D. in Political Science from the University of Iowa in 2025, as well as an M.A. (Awarded Excellent Master’s Thesis) and a B.A. (Graduated with High Distinction) in Political Science from Kyung Hee University, South Korea.
 
 My CV can be found [here.](https://www.dropbox.com/scl/fi/rd2fdym43vb3hqjyr5uow/Jeongho_Choi_cv.pdf?rlkey=v1p9hglhw6uquyej4xxcgt71y&st=syeyclvr&dl=0)
