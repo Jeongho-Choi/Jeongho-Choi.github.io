@@ -11,9 +11,7 @@ Political Science Research Design I (Master’s level), Fall 2025<br>
 Text as Data for Political Scientists (Undergraduate & Master’s level), Fall 2025
 
 *University of Iowa*<br>
-Analyzing Political Data (Undergraduate), Fall 2024  
-- Recipient of the campus-wide Outstanding TA Award, University of Iowa
-
+Analyzing Political Data (Undergraduate), Fall 2024 (Recieved the campus-wide Outstanding TA Award, U of Iowa)<br>
 Math Camp for Incoming Graduate Students, Summer 2023; Summer 2024
 
 ## Teaching Assistant
