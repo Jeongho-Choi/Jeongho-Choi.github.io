@@ -13,6 +13,7 @@ Text as Data for Political Scientists (Undergrad and Master Level). Fall 2025
 *University of Iowa* \
 Analyzing Political Data (Undergrad Level). Fall 2024 \
 * Recipient of the Campus-wide Outstanding TA Award, University of Iowa. \
+
 Math Camp for Incoming Graduate Student. Summer 2023, Summer 2024
 
 ## Teaching Assistant
