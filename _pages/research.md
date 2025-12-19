@@ -34,9 +34,9 @@ Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 
 **Choi, Jeongho** and Seongjoon Ahn. “Alternative Democratic Visions or Diffuse Dissatisfaction? Rethinking Populist Supporters’ Conceptions of Democracy.”
 
-## Working papers
-Ma, Haofeng and **Jeongho Choi**. “The Deceptiveness of Presidential Personas: The Gap Between Spontaneous and Formal Leadership Traits and Its Impact on Political Trust.” (Corresponding; Accepted for inclusion in *The Year in C-SPAN Research* by Purdue University Press)
+Ma, Haofeng and **Jeongho Choi**. “The Deceptiveness of Presidential Personas: The Gap Between Spontaneous and Formal Personality Traits and Its Impact on Political Trust.” (Corresponding)
 
+## Working papers
 **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding." (*Ready for Submission*)
 
 Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding; *Ready for Submission*; Received *Best Graduate Student Conference Paper*, Dept of Poli Sci, Univ of Iowa)
