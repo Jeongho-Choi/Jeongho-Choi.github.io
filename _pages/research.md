@@ -28,7 +28,7 @@ Woo, Byung-deuk and **Jeongho Choi**. 2022. “[The Influence of Subnational Dem
 
 ## Manuscripts under Review
 
-Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries.” (Corresponding)
+Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Macrodiscontent Across Countries.” (Corresponding; R&R)
 
 **Choi, Jeongho**.“Public Support for Democracy and Different Patterns of Democratic Backsliding.”
 
