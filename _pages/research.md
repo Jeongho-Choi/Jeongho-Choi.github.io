@@ -6,9 +6,9 @@ author_profile: no
 ---
 
 ## Peer-reviewed Publications
-**Choi, Jeongho** and Yujin Julia Jung. Forthcoming. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" *Political Science Quarterly*.
+**Choi, Jeongho** and Yujin Julia Jung. 2025. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" *Political Science Quarterly*.
 
-Nyhuis, Dominic, Jona-Frederik Baumert, **Jeongho Choi**, Sebastian Block and Morten Harmening. “Modeling Issue Competence Over Time: A Bayesian Framework for Estimating Dynamic Issue Ownership.” Forthcoming. *Political Science Research and Methods*. (Corresponding)
+Nyhuis, Dominic, Jona-Frederik Baumert, **Jeongho Choi**, Sebastian Block and Morten Harmening. 2025. “[Modeling Issue Competence Over Time: A Bayesian Framework for Estimating Dynamic Issue Ownership.](https://doi.org/10.1017/psrm.2025.10074)” *Political Science Research and Methods*. (Corresponding)
 
 **Choi, Jeongho**. 2025. "[Evolving Populist Rhetoric: How Public Approval Shapes its Employment.](https://doi.org/10.1080/14782804.2025.2491400)" *Journal of Contemporary European Studies*, 33(3): 1048-1063. 
 
