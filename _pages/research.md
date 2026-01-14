@@ -6,7 +6,7 @@ author_profile: no
 ---
 
 ## Peer-reviewed Publications
-**Choi, Jeongho** and Yujin Julia Jung. 2025. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" *Political Science Quarterly*.
+**Choi, Jeongho** and Yujin Julia Jung. Forthcoming. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" *Political Science Quarterly*.
 
 Nyhuis, Dominic, Jona-Frederik Baumert, **Jeongho Choi**, Sebastian Block and Morten Harmening. 2025. “[Modeling Issue Competence Over Time: A Bayesian Framework for Estimating Dynamic Issue Ownership.](https://doi.org/10.1017/psrm.2025.10074)” *Political Science Research and Methods*. (Corresponding)
 
@@ -36,12 +36,12 @@ Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 
 Ma, Haofeng and **Jeongho Choi**. “The Deceptiveness of Presidential Personas: The Gap Between Spontaneous and Formal Personality Traits and Its Impact on Political Trust.” (Corresponding)
 
+Ma, Haofeng and **Jeongho Choi**. "Speaking the State: How Educational Language Shapes Political Support" (Corresponding)
+
 ## Working papers
 **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding." (*Ready for Submission*)
 
 Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding; *Ready for Submission*; Received *Best Graduate Student Conference Paper*, Dept of Poli Sci, Univ of Iowa)
-
-Ma, Haofeng and **Jeongho Choi**. "Manufacturing Political Support through Language: The Role of Educational Language in Shaping Political Support among Minorities." (Corresponding; *Ready for Submission*)
 
 Yujin Julia Jung and **Jeongho Choi**. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters." (Corresponding)
 
