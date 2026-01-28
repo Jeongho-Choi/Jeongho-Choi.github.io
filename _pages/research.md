@@ -6,6 +6,8 @@ author_profile: no
 ---
 
 ## Peer-reviewed Publications
+Ma, Haofeng and **Jeongho Choi**. Forthcoming. “The Deceptiveness of Presidential Personas: The Gap Between Spontaneous and Formal Personality Traits and Its Impact on Political Trust.” in *Political Communication, Congress and the Presidency: The Year in C-SPAN Archives Research*, Volume 11. Purdue University Press (Corresponding)
+
 **Choi, Jeongho** and Yujin Julia Jung. Forthcoming. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" *Political Science Quarterly*.
 
 Nyhuis, Dominic, Jona-Frederik Baumert, **Jeongho Choi**, Sebastian Block and Morten Harmening. 2025. “[Modeling Issue Competence Over Time: A Bayesian Framework for Estimating Dynamic Issue Ownership.](https://doi.org/10.1017/psrm.2025.10074)” *Political Science Research and Methods*. (Corresponding)
@@ -33,8 +35,6 @@ Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 **Choi, Jeongho**.“Public Support for Democracy and Different Patterns of Democratic Backsliding.”
 
 **Choi, Jeongho** and Seongjoon Ahn. “Alternative Democratic Visions or Diffuse Dissatisfaction? Rethinking Populist Supporters’ Conceptions of Democracy.”
-
-Ma, Haofeng and **Jeongho Choi**. “The Deceptiveness of Presidential Personas: The Gap Between Spontaneous and Formal Personality Traits and Its Impact on Political Trust.” (Corresponding)
 
 Ma, Haofeng and **Jeongho Choi**. "Speaking the State: How Educational Language Shapes Political Support" (Corresponding)
 
