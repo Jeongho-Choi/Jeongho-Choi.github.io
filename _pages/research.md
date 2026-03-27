@@ -34,9 +34,9 @@ Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 
 **Choi, Jeongho**.“Public Support for Democracy and Different Patterns of Democratic Backsliding.” (R&R)
 
-**Choi, Jeongho** and Seongjoon Ahn. “Alternative Democratic Visions or Diffuse Dissatisfaction? Rethinking Populist Supporters’ Conceptions of Democracy.”
+Ma, Haofeng and **Jeongho Choi**. "Speaking the State: How Educational Language Shapes Political Support" (Corresponding; R&R)
 
-Ma, Haofeng and **Jeongho Choi**. "Speaking the State: How Educational Language Shapes Political Support" (Corresponding)
+**Choi, Jeongho** and Seongjoon Ahn. “Alternative Democratic Visions or Diffuse Dissatisfaction? Rethinking Populist Supporters’ Conceptions of Democracy.”
 
 ## Working papers
 **Choi, Jeongho** and Haofeng Ma. "Support Which Democracy? Liberal Democracy, Guardianship Democracy, and Democratic Backsliding." (*Ready for Submission*)
