@@ -8,7 +8,7 @@ author_profile: no
 ## Peer-reviewed Publications
 Ma, Haofeng and **Jeongho Choi**. Forthcoming. “The Strategic Self-Presentation of Presidential Personas: Gaps Between Spontaneous and Formal Personality Traits and Political Trust.” in *Political Communication, Congress and the Presidency: The Year in C-SPAN Archives Research*, Volume 11. Purdue University Press (Corresponding)
 
-**Choi, Jeongho** and Yujin Julia Jung. Forthcoming. "Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric" *Political Science Quarterly*.
+**Choi, Jeongho** and Yujin Julia Jung. 2026. "[Does Immigration Fuel Populism? The Effect of Immigration on the Rise of Populist Rhetoric.](https://doi.org/10.1093/psquar/qqag001)" *Political Science Quarterly*.
 
 Nyhuis, Dominic, Jona-Frederik Baumert, **Jeongho Choi**, Sebastian Block and Morten Harmening. 2025. “[Modeling Issue Competence Over Time: A Bayesian Framework for Estimating Dynamic Issue Ownership.](https://doi.org/10.1017/psrm.2025.10074)” *Political Science Research and Methods*. (Corresponding)
 
