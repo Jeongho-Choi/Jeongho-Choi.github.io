@@ -35,11 +35,7 @@ Woo, Byung-deuk and **Jeongho Choi**. 2022. “[The Influence of Subnational Dem
 
 ## Manuscripts under Review
 
-
-
 **Choi, Jeongho**.“Public Support for Democracy and Different Patterns of Democratic Backsliding.” (R&R)
-
-
 
 **Choi, Jeongho** and Seongjoon Ahn. “Alternative Democratic Visions or Diffuse Dissatisfaction? Rethinking Populist Supporters’ Conceptions of Democracy.”
 
@@ -48,18 +44,12 @@ Woo, Byung-deuk and **Jeongho Choi**. 2022. “[The Influence of Subnational Dem
 
 Ahn, Seongjoon and **Jeongho Choi**. "Democratic Backsliding as Political Information: How the News Media Transforms its Portrayal of Democracy Over Time." (Corresponding; *Ready for Submission*; Received *Best Graduate Student Conference Paper*, Dept of Poli Sci, Univ of Iowa)
 
-Yujin Julia Jung and **Jeongho Choi**. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters." (Corresponding)
+**Choi, Jeongho**, Haofeng Ma, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Discontented Citizens and the Stability of Democracy.”
 
-**Choi, Jeongho**. “Does Inclusive Representation Foster Democratic Support?”
+Yujin Julia Jung and **Jeongho Choi**. "Populism and the Support for Democracy: Dissecting the Divergent Democratic Beliefs of Populist Supporters." (Corresponding)
 
 **Choi, Jeongho**. “Random Forest and Party Positions’ on Diverse Issues.”
 
 Choi, Jeongho. *Substantive Political Representation and Public Support for Populism*. (Book Project; Developed from Doctoral Dissertation)
 
 **Choi, Jeongho**, Morten Harmening, Jona-Frederik Baumert, Simone Marsilio and Dominic Nyhuis. “Rallying Around Democracy? Partisan Responses to Political Violence.”
-
-Marsilio, Simone, Jona-Frederik Baumert, **Jeongho Choi**, Morten Harmening and Dominic Nyhuis. “Improving Ballot Designs: A Conjoint Experiment on Ballot Designs.”
-
-Seo, Heyri, Soojin Lee, and **Jeongho Choi**. "Hate, Fear, and Gender: Why Some Democracies Resist Far-Right Rhetoric While Others Normalize It." (Corresponding)
-
-**Choi, Jeongho**, Haofeng Ma, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. “Discontented Citizens and the Stability of Democracy.”

@@ -6,6 +6,9 @@ author_profile: no
 ---
 
 ## Independent Instructor
+<strong>*Kyung Hee Universityr*</strong><br>
+Environmental Politics and International Relations (Undergrad Level), Spring 2026
+
 <strong>*Leibniz University Hannover*</strong><br>
 Political Science Research Design I (Master’s Level), Fall 2025<br>
 Text as Data for Political Scientists (Undergrad & Master’s Level), Fall 2025
