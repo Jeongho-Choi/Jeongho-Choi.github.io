@@ -8,7 +8,7 @@ author_profile: no
 ## Peer-reviewed Publications
 
 Ma, Haofeng, **Jeongho Choi**, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt. Forthcoming. “Macrodiscontent Across Countries.” *European Political Science Review*. (Corresponding)
-e
+
 Ma, Haofeng and **Jeongho Choi**. Forthcoming. "Speaking the State: Linguistic Displacement and Political Support." *Social Science Quarterly*. (Corresponding)
 
 Ma, Haofeng and **Jeongho Choi**. Forthcoming. “The Strategic Self-Presentation of Presidential Personas: Gaps Between Spontaneous and Formal Personality Traits and Political Trust.” in *Political Communication, Congress and the Presidency: The Year in C-SPAN Archives Research*, Volume 11. Purdue University Press (Corresponding)
