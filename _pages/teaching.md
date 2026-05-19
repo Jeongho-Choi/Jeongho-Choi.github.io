@@ -6,7 +6,7 @@ author_profile: no
 ---
 
 ## Independent Instructor
-<strong>*Kyung Hee Universityr*</strong><br>
+<strong>*Kyung Hee University*</strong><br>
 Environmental Politics and International Relations (Undergrad Level), Spring 2026
 
 <strong>*Leibniz University Hannover*</strong><br>
